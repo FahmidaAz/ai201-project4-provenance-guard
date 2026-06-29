@@ -246,3 +246,10 @@ Rate limiting: Flask-Limiter
 LLM: Groq (llama-3.3-70b-versatile)
 Stylometrics: Pure Python (no external libraries)
 Audit log: In-memory (runtime) — persisted via /log endpoint
+**Test Case Result**
+<img width="1280" height="800" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/fc637ce3-2fff-4748-871b-a5b07253dd51" />
+<img width="1280" height="800" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/a2ba496e-1f17-469e-babf-6f9b4c3ddf73" />
+<img width="1280" height="800" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/85140289-3644-492f-9c05-df8523c84d7c" />
+<img width="1280" height="800" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/109bffc2-7c7b-499e-86a3-72d0505e71e6" />
+
+
