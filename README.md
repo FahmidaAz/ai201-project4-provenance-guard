@@ -245,7 +245,9 @@ API framework: Flask
 Rate limiting: Flask-Limiter
 LLM: Groq (llama-3.3-70b-versatile)
 Stylometrics: Pure Python (no external libraries)
-Audit log: In-memory (runtime) — persisted via /log endpoint
+Audit log: In-memory (runtime) — persisted via /log endpoint                                                                       
+
+
 
 
 **Test Case Result**
